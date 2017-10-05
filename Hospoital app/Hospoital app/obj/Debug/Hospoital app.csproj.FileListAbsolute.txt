@@ -1,0 +1,49 @@
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\ApplicationInsights.config
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\roslyn\csc.exe
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\roslyn\System.Collections.Immutable.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\roslyn\vbc.exe
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\roslyn\VBCSCompiler.exe
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\roslyn\VBCSCompiler.exe.config
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Hospoital app.dll.config
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Hospoital app.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Hospoital app.pdb
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Microsoft.AI.DependencyCollector.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Microsoft.AI.Web.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Microsoft.AI.WindowsServer.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Microsoft.ApplicationInsights.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Microsoft.Web.Infrastructure.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\System.Web.Helpers.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\System.Web.Mvc.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\System.Web.Razor.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\System.Web.Webpages.Deployment.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\System.Web.Webpages.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\System.Web.Webpages.Razor.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Microsoft.AI.DependencyCollector.xml
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Microsoft.AI.Web.xml
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Microsoft.AI.WindowsServer.xml
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Microsoft.ApplicationInsights.xml
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\System.Web.Razor.xml
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\System.Web.Webpages.xml
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\System.Web.Webpages.Deployment.xml
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\System.Web.Webpages.Razor.xml
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\System.Web.Helpers.xml
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\System.Web.Mvc.xml
+D:\Hospital\Hosp\Hospoital app\Hospoital app\obj\Debug\Hospoital app.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\obj\Debug\Hospoital app.pdb
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\EntityFramework.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\EntityFramework.SqlServer.dll
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\EntityFramework.xml
+D:\Hospital\Hosp\Hospoital app\Hospoital app\bin\EntityFramework.SqlServer.xml
