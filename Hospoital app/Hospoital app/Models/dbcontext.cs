@@ -11,6 +11,7 @@ namespace Admin2.Models
         {
             Database.SetInitializer(new MigrateDatabaseToLatestVersion<dbcontext, Hospoital_app.Migrations.Configuration>("dbcontext"));
         }
-        
+
+        public System.Data.Entity.DbSet<Hospoital_app.Models.HospitalDetails> HospitalDetails { get; set; }
     }
 }
