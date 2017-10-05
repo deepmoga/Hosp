@@ -13,5 +13,7 @@ namespace Admin2.Models
         }
 
         public System.Data.Entity.DbSet<Hospoital_app.Models.HospitalDetails> HospitalDetails { get; set; }
+
+        public System.Data.Entity.DbSet<Hospoital_app.Models.Doctors> Doctors { get; set; }
     }
 }
